@@ -1,0 +1,13 @@
+package br.com.josueao.lab_graphql;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class LabGraphqlApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(LabGraphqlApplication.class, args);
+	}
+
+}
