@@ -26,15 +26,15 @@ Para executar o projeto, siga os passos abaixo:
 1. Clone o repositório para sua máquina local.
 2. Navegue até o diretório do projeto.
 3. Execute o comando `mvn spring-boot:run` para iniciar a aplicação.
-4. No http://localhost:8080/graphiql?path=/graphql está a interface GraphQL para testar a API. Segue algumas telas:
+4. No http://localhost:8080/graphiql?path=/graphql interface GraphQL para testar a API. Segue algumas telas:
 
-![](assets/images/Mutation01.png)
+![](asserts/images/Mutation01.png)
 
-![](assets/images/Mutation02.png)
+![](asserts/images/Mutation02.png)
 
-![](assets/images/Mutation03.png)
+![](asserts/images/Mutation03.png)
 
-![](assets/images/Query02.png)
+![](asserts/images/Query02.png)
 
 # Outros meios de testar API GraphQL
 
